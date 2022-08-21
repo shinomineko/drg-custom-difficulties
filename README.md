@@ -53,6 +53,9 @@ This is for fans Hazard 5 with x2 enemies that are looking to add some spice, bu
 ## [Hazard 6](difficulties/Hazard_6.cd.json)
 Imported from Ike's [Hazard 6 on Mod.io](https://drg.mod.io/ike)
 
+## [Hazard 6x1.5](difficulties/Hazard_6x1.5.cd.json)
+Hazard 6 with 1.5x enemy count, and 50 nitra resupplies. Prospector and Data Vault disabled.
+
 ## [Hazard 6x2 40 Nitra](difficulties/Hazard_6x2_40_Nitra.cd.json)
 Hazard 6 with 2x enemy count, 40 nitra resupplies, and 180/180 spawn caps. Prospector and Data Vault disabled.
 
