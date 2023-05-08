@@ -1,6 +1,7 @@
 {
-  "Name": "Hazard 7",
-  "Description": "Imported from Ike's [Hazard 7 on Mod.io](https://drg.mod.io/hazard-7)",
+  "Name": "Hazard 7x2, 40 Nitra",
+  "Description": "Hazard 7, 2x enemies, 40 nitra resupplies",
+  "MaxActiveCritters": 180,
   "MaxActiveSwarmers": [
     90,
     150,
@@ -13,7 +14,7 @@
     180,
     180
   ],
-  "ResupplyCost": 50,
+  "ResupplyCost": 40,
   "ExtraLargeEnemyDamageResistance": [
     1.4,
     1.7,
@@ -51,10 +52,10 @@
     4.6
   ],
   "EnemyCountModifier": [
-    1.15,
-    1.25,
-    1.45,
-    1.75
+    2.3,
+    2.5,
+    2.9,
+    3.5
   ],
   "EncounterDifficulty": [
     {
@@ -90,8 +91,8 @@
     {
       "weight": 1,
       "range": {
-        "min": 450,
-        "max": 600
+        "min": 900,
+        "max": 1200
       }
     },
     {
@@ -222,10 +223,10 @@
     }
   ],
   "DisruptiveEnemyPoolCount": {
-    "min": 7,
-    "max": 7
+    "min": 14,
+    "max": 14
   },
-  "MinPoolSize": 12,
+  "MinPoolSize": 24,
   "EnvironmentalDamageModifier": 1.6,
   "PointExtractionScalar": 1.6,
   "FriendlyFireModifier": 0.9,
@@ -235,7 +236,7 @@
   "EscortMule": {
     "FriendlyFireModifier": 0.1,
     "BigHitDamageModifier": 0.75,
-    "BigHitDamageReductionThreshold": 0,
+    "BigHitDamageReductionThreshold": 6,
     "NeutralDamageModifier": 0.1
   }
 }

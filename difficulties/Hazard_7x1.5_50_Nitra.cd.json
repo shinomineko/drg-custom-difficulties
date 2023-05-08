@@ -1,6 +1,6 @@
 {
-  "Name": "Hazard 7",
-  "Description": "Imported from Ike's [Hazard 7 on Mod.io](https://drg.mod.io/hazard-7)",
+  "Name": "Hazard 7x1.5, 50 Nitra",
+  "Description": "Hazard 7, 1.5x enemies, 50 nitra resupplies",
   "MaxActiveSwarmers": [
     90,
     150,
@@ -51,28 +51,28 @@
     4.6
   ],
   "EnemyCountModifier": [
-    1.15,
-    1.25,
-    1.45,
-    1.75
+    1.725,
+    1.875,
+    2.175,
+    2.625
   ],
   "EncounterDifficulty": [
     {
-      "weight": 1,
+      "weight": 0.625,
       "range": {
         "min": 650,
         "max": 850
       }
     },
     {
-      "weight": 6,
+      "weight": 3.75,
       "range": {
         "min": 550,
         "max": 750
       }
     },
     {
-      "weight": 1,
+      "weight": 0.625,
       "range": {
         "min": 550,
         "max": 650
@@ -88,7 +88,7 @@
       }
     },
     {
-      "weight": 1,
+      "weight": 5,
       "range": {
         "min": 450,
         "max": 600
@@ -111,7 +111,7 @@
       }
     },
     {
-      "weight": 7.5,
+      "weight": 5,
       "range": {
         "min": 120,
         "max": 150
@@ -127,14 +127,14 @@
   ],
   "EnemyNormalWaveInterval": [
     {
-      "weight": 4,
+      "weight": 3.333333,
       "range": {
         "min": 160,
         "max": 200
       }
     },
     {
-      "weight": 2,
+      "weight": 1.666667,
       "range": {
         "min": 180,
         "max": 190
@@ -143,7 +143,7 @@
   ],
   "EnemyNormalWaveDifficulty": [
     {
-      "weight": 1,
+      "weight": 5,
       "range": {
         "min": 650,
         "max": 750
@@ -152,14 +152,14 @@
   ],
   "EnemyDiversity": [
     {
-      "weight": 2,
+      "weight": 1,
       "range": {
         "min": 5,
         "max": 6
       }
     },
     {
-      "weight": 8,
+      "weight": 4,
       "range": {
         "min": 7,
         "max": 4
@@ -175,7 +175,7 @@
   ],
   "StationaryEnemyDiversity": [
     {
-      "weight": 1,
+      "weight": 5,
       "range": {
         "min": 5,
         "max": 4
@@ -184,21 +184,21 @@
   ],
   "VeteranNormal": [
     {
-      "weight": 2,
+      "weight": 0.769231,
       "range": {
         "min": 0,
         "max": 0
       }
     },
     {
-      "weight": 9,
+      "weight": 3.461539,
       "range": {
         "min": 0.7,
         "max": 0.8
       }
     },
     {
-      "weight": 2,
+      "weight": 0.769231,
       "range": {
         "min": 0.6,
         "max": 0.9
@@ -214,7 +214,7 @@
   ],
   "VeteranLarge": [
     {
-      "weight": 1,
+      "weight": 5,
       "range": {
         "min": 0.225,
         "max": 0.225

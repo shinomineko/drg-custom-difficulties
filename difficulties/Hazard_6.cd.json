@@ -3,13 +3,13 @@
   "Description": "Imported from Ike's [Hazard 6 on Mod.io](https://drg.mod.io/ike)",
   "MaxActiveSwarmers": [
     90,
-    120,
+    150,
     180,
     180
   ],
   "MaxActiveEnemies": [
     90,
-    120,
+    150,
     180,
     180
   ],
